@@ -2,7 +2,7 @@
 
 #**Word Cloud**
 
-	his program generates a word cloud, which is a visual representation of text. Word clouds are commonly used to display a visual summary of the most important words used on a web page, news forum, or social media website. Each word is represented as a tag, with the font size or color indicating its importance based on occurrence frequency.
+	This program generates a word cloud, which is a visual representation of text. Word clouds are commonly used to display a visual summary of the most important words used on a web page, news forum, or social media website. Each word is represented as a tag, with the font size or color indicating its importance based on occurrence frequency.
 
 The goal of this project was to develop a Java application that can parse a file or URL and generate a PNG file with a word cloud displaying the most prominent words. The resulting word cloud is created with words arranged in decreasing font size, style, and color.
 
