@@ -1,17 +1,19 @@
 ##/* G00398315 Marina Nikonchuk */
 
-#Word Cloud
+#**Word Cloud**
 
+	his program generates a word cloud, which is a visual representation of text. Word clouds are commonly used to display a visual summary of the most important words used on a web page, news forum, or social media website. Each word is represented as a tag, with the font size or color indicating its importance based on occurrence frequency.
 
-	This is a 'Generating a Word Cloud' program. Word-clouds are a mechanism for creating a visual representation of text
-and are used to display a visual summary of the most important words used on a web page, a news forum or a social media web site.
-A word-cloud is comprised of a set of tags, with each tag representing a single word. The importance of a word is typically
-estimated from its occurrence frequency in a text and is visualised using a large font size or different font colour. And with the 
-help of this program a user may parse a file or a URL to generate a PNG file with a word-cloud displaying the most prominent words
-in decreasing font size, style and colour. Whit the help of menu the user with may  choose option that suits him. 
-And create to create a PNG file from text or URL. Only words that are not in the file ignorewords.txt are added to the PNG file. 
+The goal of this project was to develop a Java application that can parse a file or URL and generate a PNG file with a word cloud displaying the most prominent words. The resulting word cloud is created with words arranged in decreasing font size, style, and color.
 
+The enclosed wcloud.jar fulfills this requirement by providing a command line interface, allowing the user to:
 
+- Select a file or an URL to parse
+- Specify the Number of Words to Display
+- Specify the filename for the resulting WordCloud.
+The WordCloud presents as a png graphic, with the words displayed in differing font sizes and colours.
+
+With the help of this program a user may parse a file or a URL to generate a PNG file with a word-cloud displaying the most prominent words in decreasing font size, style and colour. With the help of menu the user  may choose option that suits him and create a PNG file from text or URL. Only words that are not in the file ignorewords.txt are added to the PNG file. 
 
 References:
 
