@@ -2,7 +2,7 @@
 
 #**Word Cloud**
 
-	This program generates a word cloud, which is a visual representation of text. Word clouds are commonly used to display a visual summary of the most important words used on a web page, news forum, or social media website. Each word is represented as a tag, with the font size or color indicating its importance based on occurrence frequency.
+	This program generates a word cloud, which is a visual representation of text. Word cloud is commonly used to display a visual summary of the most important words used on a web page, news forum, or social media website. Each word is represented as a tag, with the font size or color indicating its importance based on occurrence frequency.
 
 The goal of this project was to develop a Java application that can parse a file or URL and generate a PNG file with a word cloud displaying the most prominent words. The resulting word cloud is created with words arranged in decreasing font size, style, and color.
 
@@ -18,22 +18,13 @@ With the help of this program a user may parse a file or a URL to generate a PNG
 References:
 
 1) Lectures on the subject of Advanced-Object Oriented Software Development, Dr. J.Healy  
-
 2) https://www.infoworld.com/article/2076764/image-processing-with-java-2d.html
-
 3) https://www.youtube.com/watch?v=fxQ0B6BkfKo  
-
 4) https://stackoverflow.com/
-
 5) https://github.com/
-
 6) https://learnonline.gmit.ie/pluginfile.php/434663/mod_resource/content/1/javadoc.pdf
-
 7) https://www.albany.edu/faculty/jmower/geog/gog692/ImportExportJARFiles.htm 
-
 8) https://randomcoder.org/articles/building-a-tag-cloud-in-java 
-
 9) https://www.javatips.net/api/kumo-master/src/main/java/com/kennycason/kumo/WordCloud.java 
-
 10) https://idratherbewriting.com/learnapidoc/nativelibraryapis_create_javadoc.html  
 
