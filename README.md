@@ -1,5 +1,3 @@
-##/* G00398315 Marina Nikonchuk */
-
 # **Word Cloud**
 
 #### Author: Marina Nikonchuk
