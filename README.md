@@ -20,7 +20,7 @@ The WordCloud presents as a png graphic, with the words displayed in differing f
 
 With the help of this program a user may parse a file or a URL to generate a PNG file with a word-cloud displaying the most prominent words in decreasing font size, style and colour. With the help of menu the user  may choose option that suits him and create a PNG file from text or URL. Only words that are not in the file ignorewords.txt are added to the PNG file. 
 
-References:
+### References:
 
 1) Lectures on the subject of Advanced-Object Oriented Software Development, Dr. J.Healy  
 2) https://www.infoworld.com/article/2076764/image-processing-with-java-2d.html
