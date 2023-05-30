@@ -19,9 +19,9 @@ The WordCloud presents as a png graphic, with the words displayed in differing f
 With the help of this program a user may parse a file or a URL to generate a PNG file with a word-cloud displaying the most prominent words in decreasing font size, style and colour. With the help of menu the user  may choose option that suits him and create a PNG file from text or URL. Only words that are not in the file ignorewords.txt are added to the PNG file. 
 
 ### To Run (In Command Prompt)
-Option 1: To execute the JAR use> in WordCloudGenerator: java -cp ./wcloud.jar ie.gmit.dip.Runner
+Option 1: To execute the JAR use> in Advanced_Object_Oriented: java -cp ./wcloud.jar ie.gmit.dip.Runner
 
-Option 2: Compile & run source. Navigate to the folder ../WordCloudGenerator/src: javac ie/gmit/dip/*.java java ie.gmit.dip.Runner
+Option 2: Compile & run source. Navigate to the folder ../Advanced_Object_Oriented/src: javac ie/gmit/dip/*.java java ie.gmit.dip.Runner
 
 ### References:
 
